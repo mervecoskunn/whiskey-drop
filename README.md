@@ -4,3 +4,6 @@ Welcome,
 
 This project is a simple website created using Bootstrap.
 
+You can visit website live link [here](https://mervecoskunn.github.io/whiskey-drop/)
+
+Merve Coskun
